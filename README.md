@@ -1,6 +1,6 @@
 # Bundled SvelteKit
 
-Play on words with Bun SvelteKit along with Tailwindcss.
+Play on words with Bun SvelteKit along with Tailwindcss, bundled together for a faster start to development.
 
 Designed to save time (or at least, save time for my workflow with svelte).
 
